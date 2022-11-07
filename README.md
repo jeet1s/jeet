@@ -5,7 +5,7 @@
 
 [![LinkdIn: jeet sorathiya](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeet-sorathiya-070ba4227)
 [![GitHub: jeet-sorathiya](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeet-sorathiya)
-[![Codechef: jeet_patel_01](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/jeet_patel_01)
+[![Codechef: jeet_patel_01](https://img.shields.io/badge/Codechef-%23B92B27?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/jeet_patel_01)
 [![Leetcode: jeetsorathiya](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/jeetsorathiya)
 
 # 📈 My Leetcode Stats
